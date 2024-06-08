@@ -1,4 +1,4 @@
-(https://media.licdn.com/dms/image/D5616AQExBI8OWJe2Lg/profile-displaybackgroundimage-shrink_350_1400/0/1717701221368?e=1723075200&v=beta&t=nlBQ3fioeEwDwDRvSkukJ7Tt7xis_LC9Dd-3d3rZ78g)
+https://media.licdn.com/dms/image/D5616AQExBI8OWJe2Lg/profile-displaybackgroundimage-shrink_350_1400/0/1717701221368?e=1723075200&v=beta&t=nlBQ3fioeEwDwDRvSkukJ7Tt7xis_LC9Dd-3d3rZ78g
 
 ### Hi there 👋, I'm Zobayed
 #### Frontend Developer
