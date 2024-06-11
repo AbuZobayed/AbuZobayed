@@ -1,7 +1,7 @@
-(https://media.licdn.com/dms/image/D5616AQExBI8OWJe2Lg/profile-displaybackgroundimage-shrink_350_1400/0/1717701221368?e=1723075200&v=beta&t=nlBQ3fioeEwDwDRvSkukJ7Tt7xis_LC9Dd-3d3rZ78g)
+
 ### Hi there 👋, I'm Zobayed
 #### Frontend Developer
-![Frontend Developer]
+![Frontend Developer](https://media.licdn.com/dms/image/D5616AQExBI8OWJe2Lg/profile-displaybackgroundimage-shrink_350_1400/0/1717701221368?e=1723075200&v=beta&t=nlBQ3fioeEwDwDRvSkukJ7Tt7xis_LC9Dd-3d3rZ78g)
 
 As-salamu alaykum
 My name is  Md. Abu Zobayed.i am a frontend developer, I work with React js, Javascript. Let me toke my on a journey through my world of frond-end development. 
